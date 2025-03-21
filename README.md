@@ -19,7 +19,9 @@ Hi! I’m Facundo Pfeffer, a Python Engineering Manager at Connectist with five 
 <!-- END YOUTUBE-CARDS -->
 
   ## 💰 You can help me by working with me on cool projects or donating
+  [![Cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/facundo-pfeffer)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/facundopfeffer) 
+  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
